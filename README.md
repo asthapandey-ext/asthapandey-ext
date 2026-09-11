@@ -1,30 +1,20 @@
-<h1 align="center">Hi 👋, I'm Astha Pandey</h1>
-<h3 align="center">A passionate Data Analyst & Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,ff69b4&height=150&section=header&text=Astha%20Pandey&fontSize=42&fontColor=ffc0cb&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asthapandey-ext&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <code>&lt;system online - welcome, visitor!&gt;</code>
 </p>
 
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on Data Analysis & Python projects.
-- 🌱 Exploring machine learning and advanced data visualization.
-- ⚡ Fun fact: I love turning messy data into clean insights!
-
----
-
-## 🛠️ Tech Stack & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-</p>
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asthapandey-ext&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=asthapandey-ext&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
+
+---
+
+## 💻 `whoami`
+
+```text
+I'm Astha Pandey — a passionate Data Analyst & Developer based in Ranchi, India.
+I specialize in transforming raw data into powerful, actionable insights, building
+robust models, and crafting beautiful data visualizations.
