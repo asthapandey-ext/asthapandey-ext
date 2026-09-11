@@ -26,5 +26,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asthapandey-ext&show_icons=true&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb&icon_color=ff1493&border_color=ff69b4" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asthapandey-ext&amp;show_icons=true&amp;bg_color=0d1117&amp;title_color=ff69b4&amp;text_color=ffc0cb&amp;icon_color=ff1493&amp;border_color=ff69b4" alt="GitHub Stats" />
 </p>
