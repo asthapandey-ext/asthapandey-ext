@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center"> Hi , I'm Astha Pandey </h1>
+<h3 align="center"> A passionate Data Analyst & Developer </h3>
 
-<!--
-**asthapandey-ext/asthapandey-ext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asthapandey-ext&color=ff69b4&style=flat-square" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on Data Analysis & Python projects.
+- 🌱 Exploring machine learning and advanced data visualization.
+- ⚡ Fun fact: I love turning messy data into clean insights!
+
+---
+
+## 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asthapandey-ext&show_icons=true&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb&icon_color=ff1493&border_color=ff69b4" alt="GitHub Stats" />
+</p>
