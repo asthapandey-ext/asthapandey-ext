@@ -1,8 +1,8 @@
-<h1 align="center"> Hi , I'm Astha Pandey </h1>
-<h3 align="center"> A passionate Data Analyst & Developer </h3>
+<h1 align="center">Hi 👋, I'm Astha Pandey</h1>
+<h3 align="center">A passionate Data Analyst & Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asthapandey-ext&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=asthapandey-ext&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -26,5 +26,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asthapandey-ext&amp;show_icons=true&amp;bg_color=0d1117&amp;title_color=ff69b4&amp;text_color=ffc0cb&amp;icon_color=ff1493&amp;border_color=ff69b4" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asthapandey-ext&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
