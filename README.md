@@ -1,6 +1,5 @@
 <!-- Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,ff69b4&height=120&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff1493,ff69b4,ffc0cb&height=120&section=header" width="100%"/>
 <!-- Hello World & Intro -->
 <h1 align="center">Astha Pandey</h1>
 <p align="center">
@@ -55,4 +54,4 @@ I'm **Astha Pandey** — a passionate Data Analyst & Developer based in Ranchi, 
 </p>
 
 <!-- Bottom Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,ff69b4&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff1493,ff69b4,ffc0cb&height=120&section=footer" width="100%"/>
