@@ -130,12 +130,17 @@ More projects coming soon...
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asthapandey-ext&show_icons=true&theme=transparent&hide_border=true&title_color=B08D57&icon_color=B08D57&text_color=2B2320&ring_color=6B1F2A" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asthapandey-ext&layout=compact&theme=transparent&hide_border=true&title_color=B08D57&text_color=2B2320&langs_count=8" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asthapandey-ext&theme=algolia" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asthapandey-ext&theme=transparent&hide_border=true&ring=B08D57&fire=6B1F2A&currStreakLabel=B08D57&sideLabels=2B2320&currStreakNum=2B2320&sideNums=2B2320&dates=2B2320" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asthapandey-ext&theme=algolia" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asthapandey-ext&theme=algolia&utcOffset=5.5" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asthapandey-ext&theme=algolia" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asthapandey-ext&theme=algolia" width="49%"/>
 </p>
 
 <p align="center">
