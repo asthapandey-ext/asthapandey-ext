@@ -1,395 +1,407 @@
-👋 Hey! I'm YOUR NAME
-BCA Student • Aspiring Data Analyst • Data Science & AI/ML Enthusiast
-<img src="YOUR_BANNER_IMAGE_URL" width="100%">
+!-- ========================================================= -->
+<!--                     PROFILE README                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="./banner.png" width="100%" alt="Profile Banner"/>
+
+<br/>
+
+# `Astha_Pandey`
+
+### Data Analyst • BCA Student • Data & AI Enthusiast
+
+<p>
+Turning <b>data → insights → decisions</b>
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Data+Analyst+in+Progress;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Exploring+Data+Science+%26+AI%2FML;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG"/>
 
 </div>
 
-🧠 About Me
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██████╗  █████╗ ████████╗ █████╗                         ║
+║   ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗                        ║
+║   ██║  ██║███████║   ██║   ███████║                        ║
+║   ██║  ██║██╔══██║   ██║   ██╔══██║                        ║
+║   ██████╔╝██║  ██║   ██║   ██║  ██║                        ║
+║   ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝                        ║
+║                                                              ║
+║              DATA  •  CODE  •  INSIGHTS                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+</div>
+
+
+01 — ABOUT ME
 <table>
 <tr>
-
 <td width="55%" valign="top">
 
-class AboutMe:
-
-    name = "YOUR NAME"
-    education = "BCA"
-    location = "India"
-
-    role = "Aspiring Data Analyst"
-
-    currently_learning = [
-        "SQL",
-        "Python",
-        "Excel",
-        "Power BI",
-        "Java",
-        "DSA"
-    ]
-
-    interested_in = [
-        "Data Analytics",
-        "Data Science",
-        "AI / ML",
-        "Technology"
-    ]
-
-    hobbies = [
-        "Learning",
-        "Building Projects",
-        "Exploring Technology"
-    ]
-
-    goal = "Turn data into useful insights"
+Hey, I'm Astha_Pandey 👋
+I'm a BCA student building my path toward becoming a Data Analyst, while exploring Data Science and AI/ML.
+┌─────────────────────────────────────────┐
+│                                         │
+│      BCA Student                        │
+│      Aspiring Data Analyst              │
+│      Python Learner                     │
+│      SQL Explorer                       │
+│      Power BI + Excel                   │
+│      Exploring AI / ML                  │
+│      Project Builder                    │
+│                                         │
+└─────────────────────────────────────────┘
+I enjoy turning messy information into something
+simple, visual and useful.
+Currently working on:
+- Data Analysis
+- SQL & Database concepts
+- Python
+- Excel
+- Power BI
+- DSA
+- Data Science
+- AI / ML
+- Real-world projects
 </td>
 
-<td width="45%" align="center">
+<td width="45%" valign="middle">
 
-<img src="YOUR_PROFILE_IMAGE_URL" width="90%">
-
+              .----------------.
+             /                  \
+            /    DATA DESK      \
+           |                    |
+           |   SQL   PYTHON     |
+           |   ███   █████      |
+           |                    |
+           |   EXCEL  POWER BI  |
+           |   ████   ██████    |
+           |                    |
+            \                  /
+             '----------------'
+                    ||
+             _______||_______
+            |                |
+            |   KEEP BUILDING |
+            |________________|
 </td>
-
 </tr>
 </table>
 
-"Raw data is just information. Understanding it is where the interesting part begins."
+02 — WHAT I'M BUILDING
+<div align="center">
 
-🔗 Connect With Me
-<p align="center">
+FOCUS	CURRENT DIRECTION
+📊	Data Analysis
+🗄️	SQL & Databases
+🐍	Python
+📈	Excel & Power BI
+🧠	DSA & Problem Solving
+🤖	Data Science / AI-ML
+💻	Projects & Portfolio
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+</div>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+03 — TECH STACK
+<div align="center">
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+Languages
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-</p>
+Data & Analytics
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-🛠️ Tech Stack
-💻 Programming
-<p align="center">
+Tools
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css&perline=6">
+</div>
 
-</p>
-
-📊 Data & Analytics
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
-
-</p>
-
-🤖 Data Science & AI
-<p align="center">
-
-<img src="https://img.shields.io/badge/Data_Science-8A2BE2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge">
-<img src="https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge">
-
-</p>
-
-🔧 Tools
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql&perline=5">
-
-</p>
-
-📚 Currently Learning
-<table align="center">
-<tr>
-<td align="center">🗃️<br><b>SQL</b></td>
-<td align="center">🐍<br><b>Python</b></td>
-<td align="center">📊<br><b>Excel</b></td>
-<td align="center">📈<br><b>Power BI</b></td>
-<td align="center">☕<br><b>Java</b></td>
-<td align="center">🧠<br><b>DSA</b></td>
-</tr>
-</table>
-
-🎯 My Learning Roadmap
-                    ┌─────────────┐
-                    │     BCA     │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │     SQL     │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │   PYTHON    │
-                    └──────┬──────┘
-                           │
-              ┌────────────┴────────────┐
-              ▼                         ▼
-       ┌─────────────┐           ┌─────────────┐
-       │    EXCEL    │           │     DSA     │
-       └──────┬──────┘           └──────┬──────┘
-              │                         │
-              ▼                         ▼
-       ┌─────────────┐           ┌─────────────┐
-       │   POWER BI  │           │    JAVA     │
-       └──────┬──────┘           └─────────────┘
-              │
-              ▼
-       ┌─────────────┐
-       │ DATA        │
-       │ ANALYTICS   │
-       └──────┬──────┘
-              │
-              ▼
-       ┌─────────────┐
-       │ DATA SCIENCE│
-       └──────┬──────┘
-              │
-              ▼
-       ┌─────────────┐
-       │   AI / ML   │
-       └─────────────┘
-🚀 Featured Projects
+04 — LEARNING ROADMAP
+                         ┌───────────────┐
+                         │   BCA + CODE  │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │      C        │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     C++       │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    PYTHON     │
+                         └───────┬───────┘
+                                 │
+                  ┌──────────────┴──────────────┐
+                  ▼                             ▼
+           ┌──────────────┐             ┌──────────────┐
+           │     SQL      │             │     DSA      │
+           └──────┬───────┘             └──────┬───────┘
+                  │                            │
+                  └──────────────┬─────────────┘
+                                 ▼
+                         ┌───────────────┐
+                         │ DATA ANALYSIS │
+                         └───────┬───────┘
+                                 │
+                  ┌──────────────┴──────────────┐
+                  ▼                             ▼
+           ┌──────────────┐             ┌──────────────┐
+           │   POWER BI   │             │ DATA SCIENCE │
+           └──────────────┘             └──────┬───────┘
+                                               │
+                                               ▼
+                                        ┌──────────────┐
+                                        │    AI / ML   │
+                                        └──────────────┘
+05 — PROJECTS
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-📊 Sales Analytics Dashboard
-Tech: Excel Power BI SQL
+📊 Sales Dashboard
+Tools
+Excel Power BI SQL
+Goal
+Transform raw sales data into an interactive dashboard with meaningful KPIs.
+Focus
 - Data cleaning
-- KPI analysis
-- Interactive dashboard
-- Sales trends
+- KPI creation
+- Trend analysis
 - Business insights
-<a href="YOUR_PROJECT_1_URL">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge">
+- Interactive visualization
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-🗃️ SQL Business Analysis
-Tech: SQL MySQL
+🗄️ SQL Analytics
+Tools
+SQL MySQL PostgreSQL
+Goal
+Solve real-world analytical questions using SQL.
+Focus
 - JOINs
 - GROUP BY
-- CTEs
 - Subqueries
+- CTEs
 - Window Functions
-- Business questions
-<a href="YOUR_PROJECT_2_URL">
-<img src="https://img.shields.io/badge/View_Project-2196F3?style=for-the-badge">
+- Aggregations
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 🐍 Python Data Analysis
-Tech: Python Pandas NumPy
-- Data cleaning
+Tools
+Python Pandas NumPy
+Goal
+Explore, clean and analyze datasets programmatically.
+Focus
 - EDA
+- Data cleaning
+- Missing values
+- Statistical summaries
 - Visualization
-- Pattern discovery
-- Insight generation
-<a href="YOUR_PROJECT_3_URL">
-<img src="https://img.shields.io/badge/View_Project-3776AB?style=for-the-badge">
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-🤖 Machine Learning Project
-Tech: Python Scikit-Learn
-- Data preprocessing
+🤖 AI / ML Exploration
+Tools
+Python Pandas Scikit-learn
+Goal
+Learn how machine learning can turn data into predictions.
+Focus
+- Regression
+- Classification
 - Feature engineering
-- Model training
-- Evaluation
-- Prediction
-<a href="YOUR_PROJECT_4_URL">
-<img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge">
+- Model evaluation
+- Practical experiments
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
-
 </tr>
 </table>
 
-📊 GitHub Analytics
+06 — GITHUB ANALYTICS
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" width="40%">
-
+<img
+  src="https://github-readme-stats.vercel.app/api?username=asthapandey-ext&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=true&count_private=true"
+  height="180"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=asthapandey-ext&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"
+  height="180"
+/>
 </div>
 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" width="70%">
-
+<img
+  src="https://streak-stats.demolab.com?user=asthapandey-ext&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"
+  width="70%"
+/>
 </div>
 
-📈 Contribution Graph
+07 — CONTRIBUTION GRAPH
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true">
-
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=asthapandey-ext&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+/>
 </div>
 
-🏆 GitHub Trophies
+08 — GITHUB TROPHIES
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1">
-
+<img
+  src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+  width="100%"
+/>
 </div>
 
-📌 GitHub Stats
-<table align="center">
+09 — CURRENTLY
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<td align="center">
-
-Repositories
-<img src="https://img.shields.io/badge/Repositories-∞-6C63FF?style=for-the-badge">
-
+┌───────────────────────────────┐
+│        CURRENTLY LEARNING     │
+├───────────────────────────────┤
+│                               │
+│  → Advanced SQL               │
+│  → Python                     │
+│  → Power BI                   │
+│  → Excel                      │
+│  → DSA                        │
+│  → Data Science               │
+│  → AI / ML                    │
+│                               │
+└───────────────────────────────┘
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
-Contributions
-<img src="https://img.shields.io/badge/Contributions-Growing-8A2BE2?style=for-the-badge">
-
+┌───────────────────────────────┐
+│        CURRENTLY BUILDING     │
+├───────────────────────────────┤
+│                               │
+│  → Data Projects              │
+│  → Dashboards                 │
+│  → SQL Case Studies           │
+│  → Portfolio                  │
+│  → GitHub Profile             │
+│  → Real-world Skills          │
+│                               │
+└───────────────────────────────┘
 </td>
-
-<td align="center">
-
-Learning
-<img src="https://img.shields.io/badge/Status-Building-2196F3?style=for-the-badge">
-
-</td>
-
 </tr>
 </table>
 
-🧩 Skills
-DATA ANALYTICS
+10 — A LITTLE MORE ABOUT ME
+<div align="center">
 
-SQL              ███████████████░░░░░
-Python           ████████████░░░░░░░░
-Excel            █████████████░░░░░░░
-Power BI         ██████████░░░░░░░░░░
-Statistics       ████████░░░░░░░░░░░░
+                         ╭─────────────────────╮
+                         │     MY APPROACH     │
+                         ╰──────────┬──────────╯
+                                    │
+             ┌──────────────────────┼──────────────────────┐
+             │                      │                      │
+             ▼                      ▼                      ▼
+        LEARN IT                BUILD IT              IMPROVE IT
+             │                      │                      │
+             └──────────────────────┼──────────────────────┘
+                                    │
+                                    ▼
+                              SHARE THE RESULT
+</div>
 
-PROGRAMMING
+"I don't want to know everything. I want to keep learning things that make me better."
 
-C / C++          ███████████░░░░░░░░░
-Java             ███████░░░░░░░░░░░░░
-DSA              ███████░░░░░░░░░░░░░
+11 — CONNECT WITH ME
+<div align="center">
 
-EXPLORING
-
-Data Science     ███████░░░░░░░░░░░░░
-Machine Learning █████░░░░░░░░░░░░░░░
-AI               ████░░░░░░░░░░░░░░░░
-💡 How I Work
-        ┌──────────────┐
-        │  RAW DATA    │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │    CLEAN     │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   EXPLORE    │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   ANALYZE    │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │  VISUALIZE   │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   INSIGHTS   │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   DECISIONS  │
-        └──────────────┘
-🌱 Beyond Coding
-<table align="center">
-<tr>
-
-<td align="center">📚<br>Learning</td>
-<td align="center">📊<br>Data</td>
-<td align="center">💻<br>Technology</td>
-<td align="center">🤖<br>AI</td>
-<td align="center">🎨<br>Design</td>
-<td align="center">🌱<br>Growth</td>
-
-</tr>
-</table>
-
-📂 Featured Repositories
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=transparent&hide_border=true">
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=transparent&hide_border=true">
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-</p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-💬 A Random Thought
-"Learn → Build → Break → Fix → Repeat."
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+</div>
 
 <div align="center">
 
-        /\_/\\
-       ( o.o )
-        > ^ <
-       
-   ┌──────────────────────────┐
-   │   KEEP LEARNING & BUILD   │
-   └──────────────────────────┘
-⭐ Thanks for visiting my profile!
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8A2BE2&style=flat">
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│        DATA  IS  EVERYWHERE.                              │
+│        INSIGHTS  ARE  BUILT.                              │
+│                                                            │
+│        KEEP  LEARNING  •  KEEP  BUILDING  •  KEEP  GOING  │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=000000&style=for-the-badge"/>
+
+
+
+
+Astha_Pandey • Data Analyst • BCA
 </div>
 ```
+Astha Pandey
+asthapandey-ext
+asthapandeylinkdin@gmail.com
+YOUR_PORTFOLIO.com
+<img src="./banner.png" width="100%" alt="Profile Banner"/>
