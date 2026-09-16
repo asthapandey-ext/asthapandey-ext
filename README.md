@@ -1,154 +1,395 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B0A10,50:6B1F2A,100:B08D57&height=220&section=header&text=Astha%20Pandey&fontSize=58&fontColor=F5EFE6&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20Into%20Decisions&descAlignY=58&descSize=20&descColor=E8D9CE" width="100%"/>
-
-<a href="https://www.linkedin.com/in/astha-pandey-821a603a0/">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1200&color=B08D57&center=true&vCenter=true&width=560&lines=Data+%7C+Insights+%7C+Impact;Learning.+Analysing.+Building.;Curious+mind%2C+analytical+eye." alt="Typing SVG" />
-</a>
+👋 Hey! I'm YOUR NAME
+BCA Student • Aspiring Data Analyst • Data Science & AI/ML Enthusiast
+<img src="YOUR_BANNER_IMAGE_URL" width="100%">
 
 </div>
 
-<br/>
-
-### 🩶 About Me
-
-```yaml
-name: Astha Pandey
-role: "Data Analyst | Turning Data Into Decisions"
-focus:
-  - "Exploratory Data Analysis & Statistical Insight"
-  - "Dashboarding: Power BI & Excel"
-  - "SQL for business-question driven analysis"
-  - "Forecasting & light ML (scikit-learn)"
-mindset: "curious mind, analytical eye — i turn data into insights,
-          build things and code, keep learning along the way."
-```
-
-<br/>
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/astha-pandey-821a603a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-6B1F2A?style=for-the-badge&logo=linkedin&logoColor=F5EFE6" />
-  </a>
-  <a href="mailto:asthpandeylinkdin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6B1F2A?style=for-the-badge&logo=gmail&logoColor=F5EFE6" />
-  </a>
-  <a href="https://github.com/asthapandey-ext">
-    <img src="https://img.shields.io/badge/GitHub-6B1F2A?style=for-the-badge&logo=github&logoColor=F5EFE6" />
-  </a>
-</p>
-
-<br/>
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-6B1F2A?style=for-the-badge&logo=python&logoColor=F5EFE6" />
-  <img src="https://img.shields.io/badge/Pandas-6B1F2A?style=for-the-badge&logo=pandas&logoColor=F5EFE6" />
-  <img src="https://img.shields.io/badge/NumPy-6B1F2A?style=for-the-badge&logo=numpy&logoColor=F5EFE6" />
-  <img src="https://img.shields.io/badge/scikit--learn-6B1F2A?style=for-the-badge&logo=scikitlearn&logoColor=F5EFE6" />
-  <br/>
-  <img src="https://img.shields.io/badge/SQL-6B1F2A?style=for-the-badge&logo=postgresql&logoColor=F5EFE6" />
-  <img src="https://img.shields.io/badge/MySQL-6B1F2A?style=for-the-badge&logo=mysql&logoColor=F5EFE6" />
-  <img src="https://img.shields.io/badge/Power_BI-6B1F2A?style=for-the-badge&logo=powerbi&logoColor=F5EFE6" />
-  <img src="https://img.shields.io/badge/Excel-6B1F2A?style=for-the-badge&logo=microsoftexcel&logoColor=F5EFE6" />
-  <br/>
-  <img src="https://img.shields.io/badge/Jupyter-6B1F2A?style=for-the-badge&logo=jupyter&logoColor=F5EFE6" />
-  <img src="https://img.shields.io/badge/Matplotlib-6B1F2A?style=for-the-badge&logo=plotly&logoColor=F5EFE6" />
-  <img src="https://img.shields.io/badge/Git-6B1F2A?style=for-the-badge&logo=git&logoColor=F5EFE6" />
-  <img src="https://img.shields.io/badge/VS_Code-6B1F2A?style=for-the-badge&logo=visualstudiocode&logoColor=F5EFE6" />
-</p>
-
-<br/>
-
-### 📊 Featured Projects
-
+🧠 About Me
 <table>
 <tr>
-<td width="50%" valign="top">
 
-**🏢 [HR Attrition Analysis](https://github.com/asthapandey-ext/hr_attrition_analysis)**
-Analyzed **1,470 employee records** to uncover attrition drivers.
-Found a **16.1% overall attrition rate**, with overtime staff churning
-at **~30.5%** vs **~10.4%** for non-OT staff, and a critical retention
-dip at the **5–6 year tenure mark**.
-`Python` `Pandas` `Seaborn` `Matplotlib`
+<td width="55%" valign="top">
+
+class AboutMe:
+
+    name = "YOUR NAME"
+    education = "BCA"
+    location = "India"
+
+    role = "Aspiring Data Analyst"
+
+    currently_learning = [
+        "SQL",
+        "Python",
+        "Excel",
+        "Power BI",
+        "Java",
+        "DSA"
+    ]
+
+    interested_in = [
+        "Data Analytics",
+        "Data Science",
+        "AI / ML",
+        "Technology"
+    ]
+
+    hobbies = [
+        "Learning",
+        "Building Projects",
+        "Exploring Technology"
+    ]
+
+    goal = "Turn data into useful insights"
+</td>
+
+<td width="45%" align="center">
+
+<img src="YOUR_PROFILE_IMAGE_URL" width="90%">
 
 </td>
-<td width="50%" valign="top">
 
-**🛒 [Amazon Sales Analytics](https://github.com/asthapandey-ext/Amazon_Sales_Analytics)**
-End-to-end pipeline cleaning messy pricing data in **PostgreSQL**
-(regex cleanup, null handling) across **3 pricing tiers**, then built
-an interactive **Power BI** dashboard covering category performance,
-discounts, and top-reviewed products.
-`PostgreSQL` `Power BI` `SQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📈 [Rossmann Sales Forecasting](https://github.com/asthapandey-ext/Rossman_Sales_Forecasting)**
-Forecasted daily sales across **1,115 stores** using **1,017,209 records**
-(2013–2015). Random Forest model hit an **R² of 0.874** (MAE ≈ 742,
-RMSE ≈ 1,088). Found promotions lift sales by **38.8%**.
-`Python` `scikit-learn` `Pandas` `NumPy`
-
-</td>
-<td width="50%" valign="top">
-
-**💳 [UPI Adoption vs. Fraud Risk](https://github.com/asthapandey-ext/UPI-Adoption-vs.-Fraud-Risk-A-Trend-Analysis)**
-Studied **787.5B UPI transactions** (₹1,136L Cr) from FY16-17–FY25-26
-using official NPCI/RBI data. Fraud ratio fell **72.7%** from its
-FY18-19 peak. Holt-Winters forecast achieved **6.6% MAPE**.
-`Python` `SQL` `Power BI` `Statsmodels`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🏥 [Hospital Staff Assistant Chatbot](https://github.com/asthapandey-ext/Hospital_Staff_Assistant)**
-A conversational assistant built to help hospital staff quickly
-retrieve information and streamline day-to-day queries.
-`Python` `NLP`
-
-</td>
-<td width="50%" valign="top">
-
-More projects coming soon...
-
-</td>
 </tr>
 </table>
 
-<br/>
+"Raw data is just information. Understanding it is where the interesting part begins."
 
-### 📈 GitHub Analytics
-
+🔗 Connect With Me
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asthapandey-ext&theme=algolia" width="100%"/>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
 
+🛠️ Tech Stack
+💻 Programming
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asthapandey-ext&theme=algolia" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asthapandey-ext&theme=algolia&utcOffset=5.5" width="49%"/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css&perline=6">
+
 </p>
 
+📊 Data & Analytics
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asthapandey-ext&theme=algolia" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asthapandey-ext&theme=algolia" width="49%"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+
 </p>
 
+🤖 Data Science & AI
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asthapandey-ext&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+
+<img src="https://img.shields.io/badge/Data_Science-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge">
+<img src="https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge">
+
 </p>
+
+🔧 Tools
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql&perline=5">
+
+</p>
+
+📚 Currently Learning
+<table align="center">
+<tr>
+<td align="center">🗃️<br><b>SQL</b></td>
+<td align="center">🐍<br><b>Python</b></td>
+<td align="center">📊<br><b>Excel</b></td>
+<td align="center">📈<br><b>Power BI</b></td>
+<td align="center">☕<br><b>Java</b></td>
+<td align="center">🧠<br><b>DSA</b></td>
+</tr>
+</table>
+
+🎯 My Learning Roadmap
+                    ┌─────────────┐
+                    │     BCA     │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │     SQL     │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   PYTHON    │
+                    └──────┬──────┘
+                           │
+              ┌────────────┴────────────┐
+              ▼                         ▼
+       ┌─────────────┐           ┌─────────────┐
+       │    EXCEL    │           │     DSA     │
+       └──────┬──────┘           └──────┬──────┘
+              │                         │
+              ▼                         ▼
+       ┌─────────────┐           ┌─────────────┐
+       │   POWER BI  │           │    JAVA     │
+       └──────┬──────┘           └─────────────┘
+              │
+              ▼
+       ┌─────────────┐
+       │ DATA        │
+       │ ANALYTICS   │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │ DATA SCIENCE│
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   AI / ML   │
+       └─────────────┘
+🚀 Featured Projects
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+📊 Sales Analytics Dashboard
+Tech: Excel Power BI SQL
+- Data cleaning
+- KPI analysis
+- Interactive dashboard
+- Sales trends
+- Business insights
+<a href="YOUR_PROJECT_1_URL">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🗃️ SQL Business Analysis
+Tech: SQL MySQL
+- JOINs
+- GROUP BY
+- CTEs
+- Subqueries
+- Window Functions
+- Business questions
+<a href="YOUR_PROJECT_2_URL">
+<img src="https://img.shields.io/badge/View_Project-2196F3?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🐍 Python Data Analysis
+Tech: Python Pandas NumPy
+- Data cleaning
+- EDA
+- Visualization
+- Pattern discovery
+- Insight generation
+<a href="YOUR_PROJECT_3_URL">
+<img src="https://img.shields.io/badge/View_Project-3776AB?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🤖 Machine Learning Project
+Tech: Python Scikit-Learn
+- Data preprocessing
+- Feature engineering
+- Model training
+- Evaluation
+- Prediction
+<a href="YOUR_PROJECT_4_URL">
+<img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+📊 GitHub Analytics
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" width="40%">
+
+</div>
+
 
 <div align="center">
 
-*"The more varieties of different kinds of notations are still useful — don't only read the people who code like you."*
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" width="70%">
 
 </div>
+
+📈 Contribution Graph
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true">
+
+</div>
+
+🏆 GitHub Trophies
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1">
+
+</div>
+
+📌 GitHub Stats
+<table align="center">
+<tr>
+
+<td align="center">
+
+Repositories
+<img src="https://img.shields.io/badge/Repositories-∞-6C63FF?style=for-the-badge">
+
+</td>
+
+<td align="center">
+
+Contributions
+<img src="https://img.shields.io/badge/Contributions-Growing-8A2BE2?style=for-the-badge">
+
+</td>
+
+<td align="center">
+
+Learning
+<img src="https://img.shields.io/badge/Status-Building-2196F3?style=for-the-badge">
+
+</td>
+
+</tr>
+</table>
+
+🧩 Skills
+DATA ANALYTICS
+
+SQL              ███████████████░░░░░
+Python           ████████████░░░░░░░░
+Excel            █████████████░░░░░░░
+Power BI         ██████████░░░░░░░░░░
+Statistics       ████████░░░░░░░░░░░░
+
+PROGRAMMING
+
+C / C++          ███████████░░░░░░░░░
+Java             ███████░░░░░░░░░░░░░
+DSA              ███████░░░░░░░░░░░░░
+
+EXPLORING
+
+Data Science     ███████░░░░░░░░░░░░░
+Machine Learning █████░░░░░░░░░░░░░░░
+AI               ████░░░░░░░░░░░░░░░░
+💡 How I Work
+        ┌──────────────┐
+        │  RAW DATA    │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │    CLEAN     │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   EXPLORE    │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   ANALYZE    │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │  VISUALIZE   │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   INSIGHTS   │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   DECISIONS  │
+        └──────────────┘
+🌱 Beyond Coding
+<table align="center">
+<tr>
+
+<td align="center">📚<br>Learning</td>
+<td align="center">📊<br>Data</td>
+<td align="center">💻<br>Technology</td>
+<td align="center">🤖<br>AI</td>
+<td align="center">🎨<br>Design</td>
+<td align="center">🌱<br>Growth</td>
+
+</tr>
+</table>
+
+📂 Featured Repositories
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=transparent&hide_border=true">
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=transparent&hide_border=true">
+</a>
+
+</p>
+
+💬 A Random Thought
+"Learn → Build → Break → Fix → Repeat."
+
+<div align="center">
+
+        /\_/\\
+       ( o.o )
+        > ^ <
+       
+   ┌──────────────────────────┐
+   │   KEEP LEARNING & BUILD   │
+   └──────────────────────────┘
+⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8A2BE2&style=flat">
+
+</div>
+```
